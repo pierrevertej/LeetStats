@@ -58,7 +58,7 @@ export function HeroPreview() {
           <span className="size-2.5 rounded-full bg-white/10" />
           <span className="size-2.5 rounded-full bg-white/10" />
           <span className="ml-3 rounded-md bg-white/[0.04] px-2.5 py-1 font-mono text-[11px] text-ink-3">
-            leet-stats-two.vercel.app/<span className="text-ink-2">you</span>
+            leet-stats-two.vercel.app/u/<span className="text-ink-2">you</span>
           </span>
         </div>
 
